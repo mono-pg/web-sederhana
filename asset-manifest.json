@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mono-pg/web-sederhana/static/css/main.073c9b0a.css",
+    "main.js": "/mono-pg/web-sederhana/static/js/main.7a19d7bd.js",
+    "static/js/787.e58601de.chunk.js": "/mono-pg/web-sederhana/static/js/787.e58601de.chunk.js",
+    "index.html": "/mono-pg/web-sederhana/index.html",
+    "main.073c9b0a.css.map": "/mono-pg/web-sederhana/static/css/main.073c9b0a.css.map",
+    "main.7a19d7bd.js.map": "/mono-pg/web-sederhana/static/js/main.7a19d7bd.js.map",
+    "787.e58601de.chunk.js.map": "/mono-pg/web-sederhana/static/js/787.e58601de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7a19d7bd.js"
+  ]
+}
